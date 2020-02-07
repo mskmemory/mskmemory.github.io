@@ -11,13 +11,14 @@ I have master's degree. When is graduate student, I have studied MANET(mobile Ad
 # Program's skills
 - Python    ★★☆☆☆
 - Golang    ★★★★☆
-- C++       ★☆☆☆☆
-- javascript    ★★★☆☆
+- C++       ★★☆☆☆
+- javascript    ★☆☆☆☆
 - java  ★☆☆☆☆
 
 # Non program's skills
+- docker ★★☆☆☆
+- aws ★☆☆☆☆
 - My English skill is beginner
--
 
 # certification
 - Fundamental Information Technology Engineer Examination
